@@ -28,3 +28,8 @@ A full-stack project where a user can take a single picture of their fridge, and
 
 ## [Line Following Robot](https://github.com/jaydenlu997/SPIS-Robotics-Final-Project-2026)
 A physical robot that is built to follow lines, turns, and intersections placed on the ground! Inspired by the Micromouse. Uses a visual camera (Picamera) and OpenCV to detect lines, turns, and intersections. Runs on the Raspberry Pi 4 (4GB) with DC motors. 
+
+<p align="center">
+  <img src="images/HS13ssXWkAAoZQg.png" alt="Gremurin" width="300">
+</p>
+
