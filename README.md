@@ -27,4 +27,12 @@ Building a Von Neumann computer and everything inside it starting from a NAND ga
 A full-stack project where a user can take a single picture of their fridge, and an AI model catalogues everything inside it (including quantity!) for the user. Also suggests recipes that the user can try based on the ingredients available to them. Inspired by the copious amount of food waste out there, so we built a tool to help combat that.
 
 ## [Line Following Robot](https://github.com/jaydenlu997/SPIS-Robotics-Final-Project-2026)
-A physical robot that is built to follow lines, turns, and intersections placed on the ground! Inspired by the Micromouse. Uses a visual camera (Picamera) and OpenCV to detect lines, turns, and intersections. Runs on the Raspberry Pi 4 (4GB) with DC motors. 
+A physical robot that is built to follow lines, turns, and intersections placed on the ground! Inspired by the Micromouse. Uses a visual camera (Picamera) and OpenCV to detect lines, turns, and intersections. Runs on the Raspberry Pi 4 (4GB) with DC motors.
+
+<div align="center">
+  <figure>
+    <img src="HS13ssXWkAAoZQg.png" alt="Gremurin" width="300">
+    <br>
+    <sub style="font-size: 0.85rem; color: #666666; text-align: center;">Original by <a href="https://x.com/DailyGremPyro">Daily Grem Guy</a> on X (formerly Twitter)</sub>
+  </figure>
+</div>
