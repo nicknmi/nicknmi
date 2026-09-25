@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **nicknmi/nicknmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey!
+# Hey! 👋
 I'm an aspiring embedded software engineer, but I'm open to doing anything related with computers! I'm currently working on Nand2Tetris, a course where you build a high level programming language from first principles, from the simple NAND gate to a Java-like programming language. Other than that, I just do random stuff when I feel like it! (like LeetCode)
 
 Come check out some of my personal favorite projects:
